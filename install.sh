@@ -9,16 +9,16 @@ clear
 
 installTheme(){
     cd /var/www/
-    tar -cvf MinecraftPurpleThemebackup.tar.gz pterodactyl
+    tar -cvf NoximityThemebackup.tar.gz pterodactyl
     echo "Installing theme..."
     cd /var/www/pterodactyl
-    rm -r MinecraftPurpleTheme
-    git clone https://github.com/Angelillo15/MinecraftPurpleTheme.git
-    cd MinecraftPurpleTheme
-    rm /var/www/pterodactyl/resources/scripts/MinecraftPurpleTheme.css
+    rm -r NoximityTheme
+    git clone https://github.com/Angelillo15/NoximityTheme.git
+    cd NoximityTheme
+    rm /var/www/pterodactyl/resources/scripts/NoximityTheme.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
     mv index.tsx /var/www/pterodactyl/resources/scripts/index.tsx
-    mv MinecraftPurpleTheme.css /var/www/pterodactyl/resources/scripts/MinecraftPurpleTheme.css
+    mv NoximityTheme.css /var/www/pterodactyl/resources/scripts/NoximityTheme.css
     cd /var/www/pterodactyl
 
     curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
@@ -47,14 +47,14 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/Angelillo15/NoximityTheme/main/repair.sh)
 }
 
 restoreBackUp(){
     echo "Restoring backup..."
     cd /var/www/
-    tar -xvf MinecraftPurpleThemebackup.tar.gz
-    rm MinecraftPurpleThemebackup.tar.gz
+    tar -xvf NoximityThemebackup.tar.gz
+    rm NoximityThemebackup.tar.gz
 
     cd /var/www/pterodactyl
     yarn build:production

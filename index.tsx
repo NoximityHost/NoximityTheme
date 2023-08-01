@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from '@/components/App';
 import { setConfig } from 'react-hot-loader';
-import './MinecraftPurpleTheme.css';
+import './NoximityTheme.css';
 
 // Enable language support.
 import './i18n';
