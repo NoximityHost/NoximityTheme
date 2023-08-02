@@ -13,7 +13,7 @@ installTheme(){
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r NoximityTheme
-    git clone https://github.com/Angelillo15/NoximityTheme.git
+    git clone https://github.com/NoximityHost/NoximityTheme.git
     cd NoximityTheme
     rm /var/www/pterodactyl/resources/scripts/NoximityTheme.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/Angelillo15/NoximityTheme/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/NoximityHost/NoximityTheme/master/repair.sh)
 }
 
 restoreBackUp(){
@@ -60,11 +60,7 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "Copyright (c) 2022 Angelillo15 | angelillo15.es"
-echo "This program is free software: you can redistribute it and/or modify"
-echo ""
-echo "Discord: https://discord.angelillo15.es/"
-echo "Website: https://angelillo15.es/"
+echo "Copyright (c) 2023 Noximity"
 echo ""
 echo "[1] Install theme"
 echo "[2] Restore backup"
