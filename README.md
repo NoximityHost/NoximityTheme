@@ -1,4 +1,4 @@
-# MinecraftPurpleTheme
+# Noximity Deep Ocean Theme
 
 Install script:
 ```sh
