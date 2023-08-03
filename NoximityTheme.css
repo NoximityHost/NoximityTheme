@@ -84,3 +84,30 @@ input.Input-sc-19rce1w-0.jqTCDz {
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
+
+/* Use primary and secondary colors */
+div.SubNavigation-sc-lfuaoi-0.jZPsWO,
+div.TitledGreyBox___StyledDiv2-sc-gvsoy-1.jRrWLs,
+div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
+  background-color: #883120;
+}
+
+div.style-module_2XbmHEcn.group,
+div.icon.mr-4,
+div.TitledGreyBox___StyledDiv3-sc-gvsoy-4.fKIIIQ,
+div.ContentBox___StyledDiv-sc-mjlt6f-2.iGOcRf,
+div.Modal___StyledDiv2-sc-9vzni8-3.ekHIsr,
+div.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC,
+div.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO,
+div.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC,
+a.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE,
+div.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn,
+div.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf,
+textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
+div.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48,
+select.Select-sc-17exaqp-0.dupyoa,
+div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGreyBox-sc-163imy2-1.kRunTE,
+label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
+div.style-module_1DtraXMW.bg-gray-700 {
+  background-color: #092025;
+}
