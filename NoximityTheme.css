@@ -15,16 +15,31 @@ body {
 }
 
 /* Glassy box style for elements */
-.glassy-box {
-  background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
-  color: #ffffff; /* White text color */
+.GreyRowBox-sc-1xo9c6v-0,
+.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
+.fade-appear-done.fade-enter-done,
+.grid.grid-cols-6.gap-2.md\:gap-4.col-span-4.lg\:col-span-1.order-last.lg\:order-none,
+.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer,
+.style-module_2XbmHEcn.group,
+.w-full.bg-neutral-900.shadow-md.overflow-x-auto,
+.icon.mr-4,
+.GreyRowBox-sc-1xo9c6v-0.DatabaseRow___StyledGreyRowBox-sc-1t67zwr-13.iTERJN.gkSIus,
+.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC,
+.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO,
+.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC,
+.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE,
+.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn,
+.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf,
+.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48 {
+  background-color: rgba(27, 108, 126, 0.8); /* Glassy blue background */
   border-radius: 8px; /* Rounded corners */
   padding: 10px; /* Add some padding */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Glassy box shadow */
 }
 
 /* Glassy button style */
-.glassy-button {
+.style-module_1WqkLT9X,
+.style-module_35MPv1CD.active {
   background-color: #1ab78d; /* Green button background */
   color: #ffffff; /* White text color */
   border: none; /* No border */
@@ -35,23 +50,53 @@ body {
   transition: background-color 0.3s ease; /* Smooth transition on hover */
 }
 
-.glassy-button:hover {
+.style-module_1WqkLT9X:hover,
+.style-module_35MPv1CD.active:hover {
   background-color: #18a07d; /* Darker green on hover */
 }
 
 /* Glassy link style */
-.glassy-link {
+.style-module_35MPv1CD.active,
+.GreyRowBox-sc-1xo9c6v-0 a,
+.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D a,
+.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer a,
+.style-module_2XbmHEcn.group a,
+.w-full.bg-neutral-900.shadow-md.overflow-x-auto a,
+.icon.mr-4 a,
+.GreyRowBox-sc-1xo9c6v-0.DatabaseRow___StyledGreyRowBox-sc-1t67zwr-13.iTERJN.gkSIus a,
+.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC a,
+.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO a,
+.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC a,
+.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE a,
+.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn a,
+.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf a,
+.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48 a {
   color: #1ab78d; /* Green link color */
   text-decoration: none; /* Remove underline */
   transition: opacity 0.3s ease; /* Smooth transition on hover */
 }
 
-.glassy-link:hover {
+.style-module_35MPv1CD.active:hover,
+.GreyRowBox-sc-1xo9c6v-0 a:hover,
+.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D a:hover,
+.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer a:hover,
+.style-module_2XbmHEcn.group a:hover,
+.w-full.bg-neutral-900.shadow-md.overflow-x-auto a:hover,
+.icon.mr-4 a:hover,
+.GreyRowBox-sc-1xo9c6v-0.DatabaseRow___StyledGreyRowBox-sc-1t67zwr-13.iTERJN.gkSIus a:hover,
+.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC a:hover,
+.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO a:hover,
+.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC a:hover,
+.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE a:hover,
+.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn a:hover,
+.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf a:hover,
+.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48 a:hover {
   opacity: 0.8; /* Slightly reduce opacity on hover */
 }
 
 /* Glassy style for input fields */
-.glassy-input {
+.Input-sc-19rce1w-0.jqTCDz,
+.peer.style-module_3TDo--Tn {
   background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
   color: #ffffff; /* White text color */
   border: none; /* No border */
@@ -61,7 +106,7 @@ body {
 }
 
 /* Glassy style for textareas */
-.glassy-textarea {
+.Input__Textarea-sc-19rce1w-1.kKFWRA {
   background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
   color: #ffffff; /* White text color */
   border: none; /* No border */
@@ -71,7 +116,7 @@ body {
 }
 
 /* Glassy style for select dropdowns */
-.glassy-select {
+.Select-sc-17exaqp-0.dupyoa {
   background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
   color: #ffffff; /* White text color */
   border: none; /* No border */
@@ -81,9 +126,22 @@ body {
 }
 
 /* Glassy style for labels */
-.glassy-label {
-  color: #ffffff; /* White text color */
-  font-weight: bold; /* Bold font weight */
+.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
+.GreyRowBox-sc-1xo9c6v-0 a:hover label,
+.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D a:hover label,
+.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer a:hover label,
+.style-module_2XbmHEcn.group a:hover label,
+.w-full.bg-neutral-900.shadow-md.overflow-x-auto a:hover label,
+.icon.mr-4 a:hover label,
+.GreyRowBox-sc-1xo9c6v-0.DatabaseRow___StyledGreyRowBox-sc-1t67zwr-13.iTERJN.gkSIus a:hover label,
+.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC a:hover label,
+.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO a:hover label,
+.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC a:hover label,
+.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE a:hover label,
+.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn a:hover label,
+.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf a:hover label,
+.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48 a:hover label {
+  color: #1ab78d; /* Green label color on hover */
 }
 
 /* Glassy style for headings */
