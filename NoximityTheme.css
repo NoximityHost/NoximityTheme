@@ -96,9 +96,7 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 }
 
 .TitledGreyBox___StyledDiv-sc-gvsoy-0{
-  background-color: #030b0c !important;
-  border: 1px solid #ca492f;
-  padding: 12px;
+  background-color: transparent !important;
   border-radius: 8px;
 }
 
@@ -108,6 +106,18 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
   padding: 12px;
   border-radius: 8px;
   color: #ca492f;
+}
+
+.style-module_35MPv1CD{
+  background-color: #092025 !important;
+}
+
+.peer{
+  background-color: #092025 !important;
+}
+
+.xterm-screen{
+  background-color: #0a0604 !important;
 }
 
 .Label-sc-g780ms-0{
