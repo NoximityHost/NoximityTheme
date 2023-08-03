@@ -1,88 +1,88 @@
-/* Global styles */
 html {
-  background-color: #f0f5f9;
-  font-family: Arial, sans-serif;
+  background-image: url("https://angelillo15.es/resources/img/background.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-color: transparent;
 }
 
-body {
-  margin: 0;
+/* Glassy style for links */
+a {
+  color: #1ab78d; /* Aqua link color */
+  text-decoration: none; /* Remove underline */
+  transition: opacity 0.3s ease; /* Smooth transition on hover */
 }
 
-/* Header styles */
-.header {
-  background-color: #1e7bb6;
-  color: #ffffff;
-  padding: 20px;
-  text-align: center;
+a:hover {
+  opacity: 0.8; /* Slightly reduce opacity on hover */
 }
 
-/* Navigation styles */
-.nav {
-  background-color: #1e7bb6;
-  color: #ffffff;
-  padding: 10px;
-  text-align: center;
+/* Glassy style for input fields */
+input.Input-sc-19rce1w-0.jqTCDz,
+input.peer.style-module_3TDo--Tn {
+  background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
+  color: #ffffff; /* White text color */
+  border: none; /* No border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 8px; /* Add some padding */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Glassy box shadow */
 }
 
-.nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+/* Glassy style for textareas */
+textarea.Input__Textarea-sc-19rce1w-1.kKFWRA {
+  background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
+  color: #ffffff; /* White text color */
+  border: none; /* No border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 10px; /* Add some padding */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Glassy box shadow */
 }
 
-.nav li {
-  display: inline;
-  margin-right: 20px;
+/* Glassy style for select dropdowns */
+select.Select-sc-17exaqp-0.dupyoa {
+  background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
+  color: #ffffff; /* White text color */
+  border: none; /* No border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 8px; /* Add some padding */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Glassy box shadow */
 }
 
-.nav a {
-  color: #ffffff;
-  text-decoration: none;
+/* Glassy style for labels */
+label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
+.GreyRowBox-sc-1xo9c6v-0 a:hover label,
+.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D a:hover label,
+.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer a:hover label,
+.style-module_2XbmHEcn.group a:hover label,
+.w-full.bg-neutral-900.shadow-md.overflow-x-auto a:hover label,
+.icon.mr-4 a:hover label,
+.GreyRowBox-sc-1xo9c6v-0.DatabaseRow___StyledGreyRowBox-sc-1t67zwr-13.iTERJN.gkSIus a:hover label,
+.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC a:hover label,
+.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO a:hover label,
+.EditScheduleModal___StyledDiv5-sc-wh9db9-7.ueIjC a:hover label,
+.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna-D.bppajE a:hover label,
+.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn a:hover label,
+.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf a:hover label,
+.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48 a:hover label {
+  color: #1ab78d; /* Aqua label color on hover */
 }
 
-.nav a:hover {
-  color: #33cc99;
+/* Glassy style for headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff; /* White text color */
+  margin-bottom: 10px; /* Add some margin at the bottom */
 }
 
-/* Content styles */
-.content {
-  padding: 20px;
+/* Glassy style for navigation links */
+.nav-link {
+  color: #ffffff; /* White text color */
+  text-decoration: none; /* Remove underline */
+  padding: 8px 16px; /* Add some padding */
+  border-radius: 4px; /* Rounded corners */
+  transition: background-color 0.3s ease; /* Smooth transition on hover */
 }
 
-/* Footer styles */
-.footer {
-  background-color: #1e7bb6;
-  color: #ffffff;
-  padding: 10px;
-  text-align: center;
+.nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Transparent white background on hover */
 }
-
-/* Buttons styles */
-.button {
-  background-color: #33cc99;
-  color: #ffffff;
-  border: none;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-.button:hover {
-  background-color: #1e7bb6;
-}
-
-/* Your original CSS code starts here */
-
-/* Add custom styles for your elements with green and blue colors */
-a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2,
-a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: #1e7bb6;
-}
-
-/* Add more custom styles for your elements with green and blue colors */
-
-/* Your original CSS code ends here */
