@@ -1,16 +1,14 @@
-/* Body background */
+*{
+  scrollbar-width: thin;
+  scrollbar-color: #ca492f #092025;
+  font-family: 'Roboto', sans-serif;
+}
 html {
   background-color: #030b0c;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-}
-
-*{
-  scrollbar-width: thin;
-  scrollbar-color: #ca492f #092025;
-  font-family: 'Roboto', sans-serif;
 }
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
