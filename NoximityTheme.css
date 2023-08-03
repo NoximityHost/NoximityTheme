@@ -132,10 +132,10 @@ input.Input-sc-19rce1w-0.jqTCDz {
   &:before {
     content: "";
     position: absolute;
-    top: -4px;
-    left: -4px;
-    right: -4px;
-    bottom: -4px;
+    top: -8px;
+    left: -8px;
+    right: -8px;
+    bottom: -8px;
     border-radius: inherit;
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
     z-index: -1;
@@ -143,12 +143,48 @@ input.Input-sc-19rce1w-0.jqTCDz {
   &:after {
     content: "";
     position: absolute;
-    top: 4px;
-    left: 4px;
-    right: 4px;
-    bottom: 4px;
+    top: 8px;
+    left: 8px;
+    right: 8px;
+    bottom: 8px;
     border-radius: inherit;
     background: linear-gradient(135deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.05));
     z-index: -1;
   }
+}
+
+/* Terminal styling */
+pre {
+  background-color: #081126;
+  color: #c5cdce;
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* File section styling */
+div.FileContainer___StyledDiv-sc-14k0k7r-1.cIcAyO {
+  background-color: #081126;
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+div.FileRow___StyledDiv-sc-1i9ap3z-0.kjSIOr {
+  background-color: rgba(12, 26, 34, 0.9);
+  color: #c5cdce;
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  flex: 0 0 calc(33.333% - 16px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.FileRow___StyledDiv-sc-1i9ap3z-0.kjSIOr:hover {
+  background-color: #1b6c7e;
 }
