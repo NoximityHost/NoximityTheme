@@ -1,10 +1,8 @@
 /* Body background */
 html {
   background-color: #0c1a22;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  color: #c5cdce;
+  font-family: Arial, sans-serif;
 }
 
 /* Set width of navbars to 100% and remove margin */
@@ -35,19 +33,19 @@ html {
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
-  background-color: rgba(12, 26, 34, 0.9);
-  color: #c5cdce;
+  background-color: #1b6c7e;
+  color: #fff;
   border-radius: 8px;
   padding: 12px;
   font-weight: bold;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   transition: background-color 0.3s ease;
   cursor: pointer;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: none;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hover {
-  background-color: #1b6c7e;
+  background-color: #187c5d;
 }
 
 /* Hover styles for links with class style-module_1WqkLT9X */
@@ -58,7 +56,7 @@ a.style-module_1WqkLT9X:hover {
 /* Additional styles for input fields */
 input.Input-sc-19rce1w-0.jqTCDz.cursor-pointer,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: rgba(12, 26, 34, 0.9);
+  background-color: #081126;
   border: 1px solid #1b6c7e;
   color: #c5cdce;
   padding: 12px;
@@ -71,7 +69,7 @@ pre {
   color: #c5cdce;
   padding: 12px;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 /* File section styling */
@@ -79,18 +77,18 @@ div.FileContainer___StyledDiv-sc-14k0k7r-1.cIcAyO {
   background-color: #081126;
   padding: 12px;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
 }
 
 div.FileRow___StyledDiv-sc-1i9ap3z-0.kjSIOr {
-  background-color: rgba(12, 26, 34, 0.9);
-  color: #c5cdce;
+  background-color: #1b6c7e;
+  color: #fff;
   padding: 8px;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   flex: 0 0 calc(33.333% - 16px);
   display: flex;
   justify-content: center;
@@ -98,7 +96,7 @@ div.FileRow___StyledDiv-sc-1i9ap3z-0.kjSIOr {
 }
 
 div.FileRow___StyledDiv-sc-1i9ap3z-0.kjSIOr:hover {
-  background-color: #1b6c7e;
+  background-color: #187c5d;
 }
 
 /* Custom Terminal Theme */
