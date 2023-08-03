@@ -10,7 +10,7 @@ html {
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
   background-color: #092025;
-  color: #000;
+  color: #883120;
   border-radius: 8px;
   padding: 12px;
   font-weight: bold;
@@ -44,7 +44,7 @@ input.Input-sc-19rce1w-0.jqTCDz.cursor-pointer,
 input.Input-sc-19rce1w-0.jqTCDz {
   background-color: #092025;
   border: 1px solid #ca492f;
-  color: #000;
+  color: #883120;
   padding: 12px;
   border-radius: 8px;
 }
@@ -79,7 +79,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: #092025;
+  background-color: #883120;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
