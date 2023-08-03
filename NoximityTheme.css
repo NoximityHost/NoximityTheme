@@ -6,13 +6,13 @@ html {
 
 /* Glassy style for links */
 a {
-  color: #33b5b5; /* New link color */
+  color: #1ab78d; /* Aqua link color */
   text-decoration: none; /* Remove underline */
   transition: opacity 0.3s ease; /* Smooth transition on hover */
-  background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
-  padding: 10px 20px; /* Add some padding */
-  border-radius: 30px; /* More rounded corners */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Glassy box shadow */
+  background-color: rgba(0, 0, 0, 0.1); /* Transparent black background */
+  padding: 8px 16px; /* Add some padding */
+  border-radius: 10px; /* Slightly rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Glassy box shadow */
 }
 
 a:hover {
@@ -25,11 +25,11 @@ input.peer.style-module_3TDo--Tn,
 textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
 select.Select-sc-17exaqp-0.dupyoa {
   background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
-  color: #ffffff; /* White text color */
+  color: #333333; /* Dark text color */
   border: none; /* No border */
-  border-radius: 8px; /* Rounded corners */
-  padding: 12px; /* Add some padding */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Glassy box shadow */
+  border-radius: 8px; /* Slightly rounded corners */
+  padding: 8px; /* Add some padding */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Glassy box shadow */
 }
 
 /* Glassy style for labels */
@@ -48,26 +48,26 @@ label:hover,
 .GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn a:hover label,
 .CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf a:hover label,
 .flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48 a:hover label {
-  color: #33b5b5; /* Aqua label color on hover */
+  color: #1ab78d; /* Aqua label color on hover */
 }
 
 /* Glassy style for headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #ffffff; /* White text color */
+  color: #1ab78d; /* Aqua heading color */
   margin-bottom: 10px; /* Add some margin at the bottom */
 }
 
 /* Glassy style for navigation links */
 .nav-link {
-  color: #ffffff; /* White text color */
+  color: #1ab78d; /* Aqua link color */
   text-decoration: none; /* Remove underline */
-  padding: 10px 20px; /* Add some padding */
-  border-radius: 30px; /* More rounded corners */
+  padding: 8px 16px; /* Add some padding */
+  border-radius: 10px; /* Slightly rounded corners */
   transition: background-color 0.3s ease; /* Smooth transition on hover */
-  background-color: rgba(255, 255, 255, 0.1); /* Transparent white background */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Glassy box shadow */
+  background-color: rgba(0, 0, 0, 0.1); /* Transparent black background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Glassy box shadow */
 }
 
 .nav-link:hover {
-  background-color: rgba(255, 255, 255, 0.2); /* Transparent white background on hover */
+  background-color: rgba(0, 0, 0, 0.2); /* Transparent black background on hover */
 }
