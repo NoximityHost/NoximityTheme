@@ -96,14 +96,14 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 }
 
 .TitledGreyBox___StyledDiv-sc-gvsoy-0{
-  background-color: #030b0c;
+  background-color: #030b0c !important;
   border: 1px solid #ca492f;
   padding: 12px;
   border-radius: 8px;
 }
 
 .Button__ButtonStyle-sc-1qu1gou-0{
-  background-color: #030b0c;
+  background-color: #030b0c !important;
   border: 1px solid #ca492f;
   padding: 12px;
   border-radius: 8px;
@@ -112,7 +112,7 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 
 .Label-sc-g780ms-0{
   color: #ca492f;
-  background-color: #030b0c;
+  background-color: #030b0c !important;
 }
 
 div.style-module_2XbmHEcn.group,
