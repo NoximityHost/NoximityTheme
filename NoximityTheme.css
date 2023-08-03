@@ -1,6 +1,6 @@
 /* Body background */
 html {
-  background-color: #0c1a22;
+  background-color: #030b0c;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -9,8 +9,8 @@ html {
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
-  background-color: rgba(12, 26, 34, 0.9);
-  color: #c5cdce;
+  background-color: #092025;
+  color: #ffffff;
   border-radius: 8px;
   padding: 12px;
   font-weight: bold;
@@ -21,31 +21,30 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
-  background-color: #0c1a22;
+  background-color: #030b0c;
   background-size: cover;
-
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: #0c1a22;
+  background-color: #030b0c;
   background-size: cover;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hover {
-  background-color: #1b6c7e;
+  background-color: #ca492f;
 }
 
 /* Hover styles for links with class style-module_1WqkLT9X */
 a.style-module_1WqkLT9X:hover {
-  background-color: #1b6c7e !important;
+  background-color: #ca492f !important;
 }
 
 /* Additional styles for input fields */
 input.Input-sc-19rce1w-0.jqTCDz.cursor-pointer,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: rgba(12, 26, 34, 0.9);
-  border: 1px solid #1b6c7e;
-  color: #c5cdce;
+  background-color: #092025;
+  border: 1px solid #ca492f;
+  color: #ffffff;
   padding: 12px;
   border-radius: 8px;
 }
@@ -80,7 +79,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: rgba(12, 26, 34, 0.9);
+  background-color: #092025;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
