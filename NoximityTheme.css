@@ -95,7 +95,22 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
   background-color: #030b0c;
 }
 
-Label-sc-g780ms-0{
+.TitledGreyBox___StyledDiv-sc-gvsoy-0{
+  background-color: #030b0c;
+  border: 1px solid #ca492f;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.Button__ButtonStyle-sc-1qu1gou-0{
+  background-color: #030b0c;
+  border: 1px solid #ca492f;
+  padding: 12px;
+  border-radius: 8px;
+  color: #ca492f;
+}
+
+.Label-sc-g780ms-0{
   color: #ca492f;
   background-color: #030b0c;
 }
