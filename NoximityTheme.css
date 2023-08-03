@@ -8,7 +8,7 @@ html {
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
-  background-color: #0C1A22;
+  background-color: #187c5d;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
@@ -51,19 +51,19 @@ a.style-module_35MPv1CD.style-module_35MPv1CD.active {
 
 
 .style-module_1WqkLT9X {
-  background-color: #1b6c7e !important;
+  background-color: #081126 !important;
 }
 
 .style-module_1WqkLT9X:hover {
-  background-color: #187c5d !important;
-}
-
-.style-module_35MPv1CD.active {
   background-color: #1b6c7e !important;
 }
 
+.style-module_35MPv1CD.active {
+  background-color: #081126 !important;
+}
+
 .style-module_35MPv1CD.active:hover {
-  background-color: #187c5d !important;
+  background-color: #1b6c7e !important;
 }
 div.GreyRowBox-sc-1xo9c6v-0.iTERJN.flex-wrap.md:flex-nowrap.mt-2 {
   background-color: #0C1A22
