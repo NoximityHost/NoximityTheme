@@ -5,8 +5,8 @@
 }
 
 div#logo{
-  background: linear-gradient(90deg, #1b5d88, #cc3e53);
-  background-clip: text;
+  //gradient
+  background: linear-gradient(90deg, #1b5d88 0%, #cc3e53 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -141,7 +141,7 @@ div.TitledGreyBox___StyledDiv2-sc-gvsoy-1.jRrWLs,
 }
 
 div.grid.grid-cols-6.gap-2.md:gap-4.col-span-4.lg:col-span-1.order-last.lg:order-none{
-  background-color: transparent !important;
+  background-color: #041f1b !important;
 }
 
 div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
@@ -161,11 +161,11 @@ div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
 }
 
 .xterm-viewport{
-  background-color: ##18202e !important;
+  background-color: #011513 !important;
 }
 
 .xterm-screen{
-  background-color: ##18202e !important;
+  background-color: #011513 !important;
 }
 
 .Label-sc-g780ms-0{
