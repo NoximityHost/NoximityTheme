@@ -16,6 +16,11 @@ html {
   height: 100%;
 }
 
+.App___StyledDiv-sc-2l91w7-0.fnfeQw{
+  background-color: #08161c !important;
+  height: 100%;
+}
+
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
   background-color: #0c232c;
@@ -96,7 +101,6 @@ div.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf,
 textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
 div.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48,
 select.Select-sc-17exaqp-0.dupyoa,
-div.App___StyledDiv-sc-2l91w7-0.fnfeQw,
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700,
@@ -110,9 +114,6 @@ input.Input-sc-19rce1w-0.jqTCDz {
 /* Use primary and secondary colors */
 div.SubNavigation-sc-lfuaoi-0.jZPsWO,
 div.TitledGreyBox___StyledDiv2-sc-gvsoy-1.jRrWLs,
-div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
-  background-color: #030b0c;
-}
 
 .TitledGreyBox___StyledDiv-sc-gvsoy-0{
   background-color: transparent !important;
