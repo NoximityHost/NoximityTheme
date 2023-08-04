@@ -140,6 +140,10 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
   background-color: #061a1f !important;
 }
 
+div.grid.grid-cols-6.gap-2.md:gap-4.col-span-4.lg:col-span-1.order-last.lg:order-none{
+  background-color: transparent !important;
+}
+
 .FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
   background-color: #031614 !important;
 }
