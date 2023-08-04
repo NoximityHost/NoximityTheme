@@ -207,8 +207,11 @@ div.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaE
 div.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf,
 textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
 select.Select-sc-17exaqp-0.dupyoa,
-div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGreyBox-sc-163imy2-1.kRunTE,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700 {
   background-color: #092025;
+}
+
+.TitledGreyBox___StyledDiv-sc-gvsoy-0{
+  background-color: transparent !important;
 }
