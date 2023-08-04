@@ -5,9 +5,10 @@
 }
 
 div#logo{
-  background-color: linear-gradient(90deg, #1b5d88 0%, #0c232c 100%);
+  background: linear-gradient(45deg, #ff00cc, #3333ff, #00ffcc);
+  background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: transparent;
 }
 
 html {
