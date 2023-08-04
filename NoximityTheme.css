@@ -12,11 +12,7 @@ div#logo{
 }
 
 html {
-  background-color: #08161c;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background-color: #08161c !important;
 }
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
