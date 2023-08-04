@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/NoximityHost/NoximityTheme/master/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/NoximityHost/NoximityTheme/master/repair.sh?token=GHSAT0AAAAAACFQWABIENT7ADUDUTWRLQ24ZGNCTOQ)
 }
 
 restoreBackUp(){

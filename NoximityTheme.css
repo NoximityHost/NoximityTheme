@@ -172,6 +172,31 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
   justify-content: center;
 }
 
+.CodeMirror-gutter.CodeMirror-foldgutter{
+  background-color: #081126 !important;
+}
+
+.ContentContainer-sc-x3r2dw-0{
+  background-color: #061a1f !important;
+}
+
+.CodeMirror-overlayscroll-vertical{
+  background-color: #081126 !important;
+}
+
+.Button___StyledSpan-sc-1qu1gou-2{
+  background-color: #030b0c !important;
+  color: #ca492f !important;
+}
+
+.CodeMirror-linenumber{
+  background-color: #081126 !important;
+}
+
+.CodeMirror-gutter-elt{
+  background-color: #081126 !important;
+}
+
 div.style-module_2XbmHEcn.group,
 div.icon.mr-4,
 div.TitledGreyBox___StyledDiv3-sc-gvsoy-4.fKIIIQ,
