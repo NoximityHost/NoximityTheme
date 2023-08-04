@@ -5,8 +5,7 @@
 }
 
 div#logo{
-  //gradient
-  background-color: linear-gradient(90deg, #1b5d88 0%, #cc3e53 100%);
+  background-color: linear-gradient(90deg, #1b5d88 0%, #0c232c 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
