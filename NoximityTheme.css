@@ -1,18 +1,18 @@
 *{
   scrollbar-width: thin;
-  scrollbar-color: #0e82f6 #022140;
+  scrollbar-color: #1b5d88 #031614;
   font-family: 'Inter', sans-serif;
 }
 
 div#logo{
-  background: linear-gradient(90deg, #0e82f6, #c5cdce);
+  background: linear-gradient(90deg, #1b5d88, #cc3e53);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 html {
-  background-color: #011427;
+  background-color: #041f1b;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -21,8 +21,8 @@ html {
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
-  background-color: #022140;
-  color: #0e82f6;
+  background-color: #031614;
+  color: #1b5d88;
   border-radius: 8px;
   padding: 12px;
   font-weight: bold;
@@ -33,22 +33,22 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
-  background-color: #022140;
+  background-color: #031614;
   background-size: cover;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: #022140;
+  background-color: #031614;
   background-size: cover;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hover {
-  background-color: #0e82f6;
+  background-color: #1b5d88;
 }
 
 /* Hover styles for links with class style-module_1WqkLT9X */
 .style-module_1WqkLT9X{
-  background-color: #022140 !important;
+  background-color: #031614 !important;
 }
 
 .CodeMirror{
@@ -60,7 +60,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hov
 }
 
 a.style-module_1WqkLT9X:hover {
-  background-color: #0e82f6 !important;
+  background-color: #1b5d88 !important;
 }
 
 /* Additional styles for input fields */
@@ -101,7 +101,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: #022140;
+  background-color: #031614;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -121,18 +121,18 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 
 .Button__ButtonStyle-sc-1qu1gou-0{
   background-color: #030b0c !important;
-  border: 1px solid #0e82f6;
+  border: 1px solid #1b5d88;
   padding: 12px;
   border-radius: 8px;
-  color: #0e82f6 !important;
+  color: #1b5d88 !important;
 }
 
 .style-module_1n_DiqmT{
-  background-color: #061a1f !important;
+  background-color: #02151a !important;
 }
 
 .module_4LBM1DKx {
-  background-color: #061a1f !important;
+  background-color: #02151a !important;
   border-radius: 8px;
 }
 
@@ -141,27 +141,27 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 }
 
 .FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
-  background-color: #022140 !important;
+  background-color: #031614 !important;
 }
 
 .style-module_35MPv1CD{
-  background-color: #022140 !important;
+  background-color: #031614 !important;
 }
 
 .peer{
-  background-color: #022140 !important;
+  background-color: #031614 !important;
 }
 
 .xterm-viewport{
-  background-color: #061a1f !important;
+  background-color: #02151a !important;
 }
 
 .xterm-screen{
-  background-color: #061a1f !important;
+  background-color: #02151a !important;
 }
 
 .Label-sc-g780ms-0{
-  background-color: #022140 !important;
+  background-color: #031614 !important;
 }
 
 .bg-gray-700{
@@ -216,7 +216,7 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
 select.Select-sc-17exaqp-0.dupyoa,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700 {
-  background-color: #022140;
+  background-color: #031614;
 }
 
 .TitledGreyBox___StyledDiv-sc-gvsoy-0{
