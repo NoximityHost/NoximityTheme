@@ -5,7 +5,7 @@
 }
 
 div#logo{
-  background: linear-gradient(90deg, #1b5d88, #cc3e53);
+  background: linear-gradient(90deg, #1b5d88, #fff);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -142,6 +142,10 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 
 div.grid.grid-cols-6.gap-2.md:gap-4.col-span-4.lg:col-span-1.order-last.lg:order-none{
   background-color: transparent !important;
+}
+
+div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
+  background-color: #030b0c !important;
 }
 
 .FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
