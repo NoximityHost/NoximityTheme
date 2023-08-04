@@ -48,7 +48,7 @@ input.Input-sc-19rce1w-0.jqTCDz.cursor-pointer,
 input.Input-sc-19rce1w-0.jqTCDz {
   background-color: #030b0c;
   border: 1px solid #ca492f;
-  color: #092025;
+  color: #883120;
   padding: 12px;
 }
 
@@ -109,6 +109,14 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 }
 
 .style-module_1n_DiqmT{
+  background-color: #061a1f !important;
+}
+
+.active{
+  color: #ca492f !important;
+}
+
+.FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
   background-color: #061a1f !important;
 }
 
