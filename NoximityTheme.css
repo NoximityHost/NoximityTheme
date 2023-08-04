@@ -1,18 +1,18 @@
 *{
   scrollbar-width: thin;
-  scrollbar-color: #0e82f6 #092025;
+  scrollbar-color: #0e82f6 #022140;
   font-family: 'Inter', sans-serif;
 }
 
 div#logo{
-  background: linear-gradient(90deg, #0e82f6, #1887f7);
+  background: linear-gradient(90deg, #0e82f6, #c5cdce);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 html {
-  background-color: #030b0c;
+  background-color: #011427;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -21,7 +21,7 @@ html {
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
-  background-color: #092025;
+  background-color: #022140;
   color: #0e82f6;
   border-radius: 8px;
   padding: 12px;
@@ -33,12 +33,12 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
-  background-color: #092025;
+  background-color: #022140;
   background-size: cover;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: #092025;
+  background-color: #022140;
   background-size: cover;
 }
 
@@ -48,7 +48,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hov
 
 /* Hover styles for links with class style-module_1WqkLT9X */
 .style-module_1WqkLT9X{
-  background-color: #092025 !important;
+  background-color: #022140 !important;
 }
 
 .CodeMirror{
@@ -101,7 +101,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: #092025;
+  background-color: #022140;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -141,15 +141,15 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 }
 
 .FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
-  background-color: #092025 !important;
+  background-color: #022140 !important;
 }
 
 .style-module_35MPv1CD{
-  background-color: #092025 !important;
+  background-color: #022140 !important;
 }
 
 .peer{
-  background-color: #092025 !important;
+  background-color: #022140 !important;
 }
 
 .xterm-viewport{
@@ -161,7 +161,7 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 }
 
 .Label-sc-g780ms-0{
-  background-color: #092025 !important;
+  background-color: #022140 !important;
 }
 
 .bg-gray-700{
@@ -216,7 +216,7 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
 select.Select-sc-17exaqp-0.dupyoa,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700 {
-  background-color: #092025;
+  background-color: #022140;
 }
 
 .TitledGreyBox___StyledDiv-sc-gvsoy-0{
