@@ -39,6 +39,18 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hov
 }
 
 /* Hover styles for links with class style-module_1WqkLT9X */
+.style-module_1WqkLT9X{
+  background-color: #092025;
+}
+
+.CodeMirror{
+  background-color: #061a1f;
+}
+
+.grid.grid-cols-6{
+  background-color: #030b0c;
+}
+
 a.style-module_1WqkLT9X:hover {
   background-color: #ca492f !important;
 }
