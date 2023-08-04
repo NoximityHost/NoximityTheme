@@ -1,8 +1,16 @@
 *{
   scrollbar-width: thin;
-  scrollbar-color: #ca492f #092025;
+  scrollbar-color: #0e82f6 #092025;
   font-family: 'Inter', sans-serif;
 }
+
+a.text-2xl.font-header.px-4.no-underline.text-neutral-200.hover:text-neutral-100.transition-colors.duration-150{
+  background: linear-gradient(90deg, #0e82f6, #1887f7);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 html {
   background-color: #030b0c;
   background-attachment: fixed;
@@ -14,7 +22,7 @@ html {
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
   background-color: #092025;
-  color: #ca492f;
+  color: #0e82f6;
   border-radius: 8px;
   padding: 12px;
   font-weight: bold;
@@ -35,7 +43,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwb
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hover {
-  background-color: #ca492f;
+  background-color: #0e82f6;
 }
 
 /* Hover styles for links with class style-module_1WqkLT9X */
@@ -52,15 +60,15 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hov
 }
 
 a.style-module_1WqkLT9X:hover {
-  background-color: #ca492f !important;
+  background-color: #0e82f6 !important;
 }
 
 /* Additional styles for input fields */
 input.Input-sc-19rce1w-0.jqTCDz.cursor-pointer,
 input.Input-sc-19rce1w-0.jqTCDz {
   background-color: #030b0c;
-  border: 1px solid #ca492f;
-  color: #883120;
+  border: 1px solid #c5cdce;
+  color: #c5cdce;
   padding: 12px;
 }
 
@@ -113,10 +121,10 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
 
 .Button__ButtonStyle-sc-1qu1gou-0{
   background-color: #030b0c !important;
-  border: 1px solid #ca492f;
+  border: 1px solid #0e82f6;
   padding: 12px;
   border-radius: 8px;
-  color: #ca492f !important;
+  color: #0e82f6 !important;
 }
 
 .style-module_1n_DiqmT{
@@ -220,13 +228,18 @@ div.style-module_1DtraXMW.bg-gray-700 {
 }
 
 button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_2vOYXZWm.flex-1{
-  background-color: #810303 !important;
-  color: #5e0202 !important;
+  background-color: #e01f3c !important;
+  color: #c5cdce !important;
+}
+
+button.style-module_4LBM1DKx.style-module_3kBDV_wo.style-module_Yp7-2Fw-.flex-1{
+  background-color: #406fba !important;
+  color: #c5cdce !important;
 }
 
 button.style-module_4LBM1DKx.style-module_3kBDV_wo.flex-1{
-  background-color: #569004 !important;
-  color: #4d8103 !important;
+  background-color: #3b8609 !important;
+  color: #c5cdce !important;
 }
 
 
