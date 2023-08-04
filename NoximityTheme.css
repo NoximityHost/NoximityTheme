@@ -1,18 +1,18 @@
 *{
   scrollbar-width: thin;
-  scrollbar-color: #1b5d88 #041f1b;
+  scrollbar-color: #1b5d88 #0c232c;
   font-family: 'Inter', sans-serif;
 }
 
 div#logo{
-  background: linear-gradient(90deg, #1b5d88, #fff);
+  background: linear-gradient(90deg, #1b5d88, #cc3e53);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 html {
-  background-color: #031614;
+  background-color: #08161c;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -21,7 +21,7 @@ html {
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
-  background-color: #041f1b;
+  background-color: #0c232c;
   color: #1b5d88;
   border-radius: 8px;
   padding: 12px;
@@ -32,13 +32,17 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+div.w-full.bg-neutral-900.shadow-md.overflow-x-auto{
+  background-color: #08161c;
+}
+
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
-  background-color: #041f1b;
+  background-color: #0c232c;
   background-size: cover;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: #041f1b;
+  background-color: #0c232c;
   background-size: cover;
 }
 
@@ -48,7 +52,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hov
 
 /* Hover styles for links with class style-module_1WqkLT9X */
 .style-module_1WqkLT9X{
-  background-color: #041f1b !important;
+  background-color: #0c232c !important;
 }
 
 .CodeMirror{
@@ -78,7 +82,6 @@ div.grid.grid-cols-6.gap-2.md\:gap-4.col-span-4.lg\:col-span-1.order-last.lg\:or
 div.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer,
 div.style-module_2Vp6MaXq.bg-gray-600,
 div.style-module_2XbmHEcn.group,
-div.w-full.bg-neutral-900.shadow-md.overflow-x-auto,
 div.icon.mr-4,
 div.GreyRowBox-sc-1xo9c6v-0.iTERJN.flex-wrap.md\:flex-nowrap.mt-2,
 div.TitledGreyBox___StyledDiv3-sc-gvsoy-4.fKIIIQ,
@@ -101,7 +104,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: #041f1b;
+  background-color: #0c232c;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -149,15 +152,15 @@ div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
 }
 
 .FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
-  background-color: #041f1b !important;
+  background-color: #0c232c !important;
 }
 
 .style-module_35MPv1CD{
-  background-color: #041f1b !important;
+  background-color: #0c232c !important;
 }
 
 .peer{
-  background-color: #041f1b !important;
+  background-color: #0c232c !important;
 }
 
 .xterm-viewport{
@@ -169,7 +172,7 @@ div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
 }
 
 .Label-sc-g780ms-0{
-  background-color: #041f1b !important;
+  background-color: #0c232c !important;
 }
 
 .bg-gray-700{
@@ -224,7 +227,7 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
 select.Select-sc-17exaqp-0.dupyoa,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700 {
-  background-color: #041f1b;
+  background-color: #0c232c;
 }
 
 .TitledGreyBox___StyledDiv-sc-gvsoy-0{
