@@ -1,6 +1,6 @@
 *{
   scrollbar-width: thin;
-  scrollbar-color: #1b5d88 #031614;
+  scrollbar-color: #1b5d88 #041f1b;
   font-family: 'Inter', sans-serif;
 }
 
@@ -12,7 +12,7 @@ div#logo{
 }
 
 html {
-  background-color: #041f1b;
+  background-color: #031614;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
@@ -21,7 +21,7 @@ html {
 
 /* Common styles for elements with the class GreyRowBox-sc-1xo9c6v-0 */
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
-  background-color: #031614;
+  background-color: #041f1b;
   color: #1b5d88;
   border-radius: 8px;
   padding: 12px;
@@ -33,12 +33,12 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
-  background-color: #031614;
+  background-color: #041f1b;
   background-size: cover;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fwbDSe.DashboardContainer___StyledServerRow-sc-1topkxf-2.jbVWLN {
-  background-color: #031614;
+  background-color: #041f1b;
   background-size: cover;
 }
 
@@ -48,7 +48,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hov
 
 /* Hover styles for links with class style-module_1WqkLT9X */
 .style-module_1WqkLT9X{
-  background-color: #031614 !important;
+  background-color: #041f1b !important;
 }
 
 .CodeMirror{
@@ -101,7 +101,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700,
 input.Input-sc-19rce1w-0.jqTCDz {
-  background-color: #031614;
+  background-color: #041f1b;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -149,15 +149,15 @@ div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
 }
 
 .FileDropdownMenu___StyledDiv-sc-17ln8oh-3{
-  background-color: #031614 !important;
+  background-color: #041f1b !important;
 }
 
 .style-module_35MPv1CD{
-  background-color: #031614 !important;
+  background-color: #041f1b !important;
 }
 
 .peer{
-  background-color: #031614 !important;
+  background-color: #041f1b !important;
 }
 
 .xterm-viewport{
@@ -169,7 +169,7 @@ div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
 }
 
 .Label-sc-g780ms-0{
-  background-color: #031614 !important;
+  background-color: #041f1b !important;
 }
 
 .bg-gray-700{
@@ -224,7 +224,7 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
 select.Select-sc-17exaqp-0.dupyoa,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
 div.style-module_1DtraXMW.bg-gray-700 {
-  background-color: #031614;
+  background-color: #041f1b;
 }
 
 .TitledGreyBox___StyledDiv-sc-gvsoy-0{
