@@ -4,7 +4,7 @@
   font-family: 'Inter', sans-serif;
 }
 
-a.text-2xl.font-header.px-4.no-underline.text-neutral-200.hover:text-neutral-100.transition-colors.duration-150{
+div#logo{
   background: linear-gradient(90deg, #0e82f6, #1887f7);
   background-clip: text;
   -webkit-background-clip: text;
