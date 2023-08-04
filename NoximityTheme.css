@@ -165,6 +165,13 @@ div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
   background-color: #061a1f !important;
 }
 
+.div.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48{
+  background-color: transparent !important;
+  border-radius: 8px;
+  width: 100%;
+  justify-content: center;
+}
+
 div.style-module_2XbmHEcn.group,
 div.icon.mr-4,
 div.TitledGreyBox___StyledDiv3-sc-gvsoy-4.fKIIIQ,
@@ -177,7 +184,6 @@ a.GreyRowBox-sc-1xo9c6v-0.ScheduleContainer___StyledGreyRowBox-sc-dlqnx9-2.dyLna
 div.GreyRowBox-sc-1xo9c6v-0.UserRow___StyledGreyRowBox-sc-hg2wjz-0.dyLna-D.dmlaEn,
 div.CreateBackupButton___StyledDiv2-sc-da8bqw-3.eDncUf,
 textarea.Input__Textarea-sc-19rce1w-1.kKFWRA,
-div.flex.justify-end.space-x-4.mt-4.w-full.md\:mt-0.md\:w-48,
 select.Select-sc-17exaqp-0.dupyoa,
 div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGreyBox-sc-163imy2-1.kRunTE,
 label.PermissionRow__Container-sc-1h899cn-0.icxFlO:hover,
