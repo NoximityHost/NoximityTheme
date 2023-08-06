@@ -60,7 +60,7 @@ a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D:hov
 }
 
 .grid.grid-cols-6{
-  background-color: #0c232c;
+  background-color: #transparent !important;
 }
 
 a.style-module_1WqkLT9X:hover {
@@ -139,7 +139,7 @@ div.TitledGreyBox___StyledDiv2-sc-gvsoy-1.jRrWLs,
 }
 
 div.grid.grid-cols-6.gap-2.md:gap-4.col-span-4.lg:col-span-1.order-last.lg:order-none{
-  background-color: #0c232c !important;
+  background-color: #transparent !important;
 }
 
 div.SubNavigation-sc-lfuaoi-0.jZPsWO.fade-appear-done.fade-enter-done{
