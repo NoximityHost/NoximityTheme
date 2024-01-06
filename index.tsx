@@ -8,6 +8,7 @@ import './NoximityTheme.css';
 import './i18n';
 
 // Prevents page reloads while making component changes which
+
 // also avoids triggering constant loading indicators all over
 // the place in development.
 //
